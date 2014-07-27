@@ -1,0 +1,4 @@
+compressbench
+=============
+
+Compression algorithm benchmark
